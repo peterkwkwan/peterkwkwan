@@ -27,5 +27,5 @@ I enjoy writing occasionally on [Medium](https://medium.com/). Check out my [art
 
 ### Other tools
 <div>
-  ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+  <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white">
 </div>
