@@ -1,5 +1,3 @@
-### Hello there 👋
-
 ![General Kenobi](./assets/hello-there.jpeg?raw=true)
 
 > General Kenobi
