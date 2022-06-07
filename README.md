@@ -2,7 +2,9 @@
 
 > General Kenobi
 
-#### Hi, I'm Peter! Welcome to my Github repo. If you made it this far, please check out my starred projects along with my personal website. Enjoy your stay!
+#### Hi, I'm Peter! Welcome to my Github. 
+
+##### If you made it this far, please check out my starred projects along with my personal website. Enjoy your stay!
 
 - 🔭 I’m currently working on [my personal portfolio website](https://github.com/peterkwkwan/virtual-story-code)
 - 🌱 I’m currently learning: React Query, Tailwind CSS, CSS keyframe animations, websockets and polling
