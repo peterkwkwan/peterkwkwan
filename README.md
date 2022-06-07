@@ -12,7 +12,7 @@
 - ⚡ Fun fact: Super Smash Bros. 64 was my favorite game growing up
 - 📍 Based in: Hong Kong
 
-I enjoy writing occasionally on [Medium](https://medium.com/). Check out my [articles here](https://medium.com/@peterkwkwan).
+I enjoy writing on [Medium](https://medium.com/). Check out my [articles here](https://medium.com/@peterkwkwan).
 
 ## Technical Skills
 
