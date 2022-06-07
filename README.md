@@ -1,7 +1,11 @@
 ### Hello there 👋
 
+![General Kenobi](./assets/hello-there.jpeg?raw=true)
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on [my personal portfolio website](https://github.com/peterkwkwan/virtual-story-code)
+- 🌱 I’m currently learning: React Query, Tailwind CSS, CSS keyframe animations, websockets and polling
+- 📘 I'm currently reading: [Clean Code by Robert Cecil Martin](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
+- ⚡ Fun fact: Mario Kart 64 was my favorite game growing up.
 
 <!--
 **peterkwkwan/peterkwkwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
