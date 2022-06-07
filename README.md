@@ -13,7 +13,7 @@
 
 📍 Based in: Hong Kong
 
-Check out my articles on ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
+I also enjoy writing occasionally on ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white). Check out my [articles here](https://medium.com/@peterkwkwan).
 
 ## Technical Skills
 <div>
