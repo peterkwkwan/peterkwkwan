@@ -4,7 +4,7 @@
 
 #### Hi, I'm Peter! Welcome to my Github.
 
-#### If you made it this far, please check out my starred projects along with my personal website. Enjoy your stay! <img src="storm_trooper.gif">
+#### If you made it this far, please check out my starred projects along with my personal website. Enjoy your stay! <img src="./assets/storm_trooper.gif">
 
 - 🔭 Currently working on [my personal portfolio website](https://github.com/peterkwkwan/virtual-story-code)
 - 🌱 Currently learning: React Query, Tailwind CSS, CSS keyframe animations, websockets and polling
