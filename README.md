@@ -12,7 +12,7 @@
 - ⚡ Fun fact: Super Smash Bros. 64 was my favorite game growing up
 - 📍 Based in: Hong Kong
 
-<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">I enjoy writing on [Medium](https://medium.com/). Check out my [articles here](https://medium.com/@peterkwkwan).
+I enjoy writing on [Medium](https://medium.com/). Check out my [articles here](https://medium.com/@peterkwkwan).
 
 ## Technical Skills
 
@@ -64,6 +64,7 @@
   <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06">
   <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
   <img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
 </div>
 
 
