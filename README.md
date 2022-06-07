@@ -1,6 +1,6 @@
 ![General Kenobi](./assets/hello-there.jpeg?raw=true)
 
-> General Kenobi <img src="./assets/bluelightsaber.png?raw=true">
+> General Kenobi <img src="./assets/bluelightsaber.png?raw=true" style="height: 24px">
 
 #### Hi, I'm Peter! Welcome to my Github.
 
