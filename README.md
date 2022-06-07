@@ -1,10 +1,10 @@
 ![General Kenobi](./assets/hello-there.jpeg?raw=true)
 
-> General Kenobi
+> General Kenobi <img src="./assets/bluelightsaber.png?raw=true">
 
-#### Hi, I'm Peter! Welcome to my Github. 
+#### Hi, I'm Peter! Welcome to my Github.
 
-##### If you made it this far, please check out my starred projects along with my personal website. Enjoy your stay!
+#### If you made it this far, please check out my starred projects along with my personal website. Enjoy your stay! <img src="storm_trooper.gif">
 
 - 🔭 Currently working on [my personal portfolio website](https://github.com/peterkwkwan/virtual-story-code)
 - 🌱 Currently learning: React Query, Tailwind CSS, CSS keyframe animations, websockets and polling
@@ -17,6 +17,7 @@ I enjoy writing on [Medium](https://medium.com/). Check out my [articles here](h
 ## Technical Skills
 
 ### Frontend
+
 <div>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
@@ -28,7 +29,8 @@ I enjoy writing on [Medium](https://medium.com/). Check out my [articles here](h
   <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white">
 </div>
 
-### UI Toolkits 
+### UI Toolkits
+
 <div>
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
   <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
@@ -36,6 +38,7 @@ I enjoy writing on [Medium](https://medium.com/). Check out my [articles here](h
 </div>
 
 ### Design
+
 <div>
   <img src="https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white">
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
@@ -43,6 +46,7 @@ I enjoy writing on [Medium](https://medium.com/). Check out my [articles here](h
 </div>
 
 ### CI / CD
+
 <div>
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white">
@@ -51,6 +55,7 @@ I enjoy writing on [Medium](https://medium.com/). Check out my [articles here](h
 </div>
 
 ### Other tools
+
 <div>
   <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7">
   <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white">
@@ -63,6 +68,7 @@ I enjoy writing on [Medium](https://medium.com/). Check out my [articles here](h
 </div>
 
 ### Learning
+
 <div>
   <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06">
   <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
@@ -71,5 +77,3 @@ I enjoy writing on [Medium](https://medium.com/). Check out my [articles here](h
   <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white">
   <img src="https://img.shields.io/badge/%3CDiscord%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white">
 </div>
-
-
