@@ -2,22 +2,14 @@
 
 ![General Kenobi](./assets/hello-there.jpeg?raw=true)
 
+> General Kenobi
+
 - 🔭 I’m currently working on [my personal portfolio website](https://github.com/peterkwkwan/virtual-story-code)
 - 🌱 I’m currently learning: React Query, Tailwind CSS, CSS keyframe animations, websockets and polling
 - 📘 I'm currently reading: [Clean Code by Robert Cecil Martin](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
-- ⚡ Fun fact: Mario Kart 64 was my favorite game growing up.
+- ⚡ Fun fact: Super Smash Bros. 64 was my favorite game growing up
 
-<!--
-**peterkwkwan/peterkwkwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 Currently based in: Hong Kong
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
