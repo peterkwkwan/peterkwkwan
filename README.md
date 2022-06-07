@@ -6,14 +6,13 @@
 
 ##### If you made it this far, please check out my starred projects along with my personal website. Enjoy your stay!
 
-- 🔭 Currently working on [my personal portfolio website](https://github.com/peterkwkwan/virtual-story-code)
-- 🌱 Currently learning: React Query, Tailwind CSS, CSS keyframe animations, websockets and polling
-- 📘 Currently reading: [Clean Code by Robert Cecil Martin](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
-- ⚡ Fun fact: Super Smash Bros. 64 was my favorite game growing up
-
+🔭 Currently working on [my personal portfolio website](https://github.com/peterkwkwan/virtual-story-code)
+🌱 Currently learning: React Query, Tailwind CSS, CSS keyframe animations, websockets and polling
+📘 Currently reading: [Clean Code by Robert Cecil Martin](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
+⚡ Fun fact: Super Smash Bros. 64 was my favorite game growing up
 📍 Based in: Hong Kong
 
-I also enjoy writing occasionally on [Medium](https://medium.com/). Check out my [articles here](https://medium.com/@peterkwkwan).
+I enjoy writing occasionally on [Medium](https://medium.com/). Check out my [articles here](https://medium.com/@peterkwkwan).
 
 ## Technical Skills
 <div>
