@@ -8,7 +8,7 @@
 
 - 🔭 Currently working on [my personal portfolio website](https://github.com/peterkwkwan/virtual-story-code)
 - 🌱 Currently learning: React Query, Tailwind CSS, CSS keyframe animations, websockets and polling
-- 📘 Currently reading: [Clean Code by Robert Cecil Martin](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
+- 📘 Currently reading: [You Don't Know JS Yet - Up & Going](https://www.bookdepository.com/You-Dont-Know-JS-Yet-Kyle-Simpson/9798602477429?ref=grid-view&qid=1655648264593&sr=1-1)
 - ⚡ Fun fact: Super Smash Bros. 64 was my favorite game growing up
 - 📍 Based in: Hong Kong
 
