@@ -66,6 +66,7 @@ I enjoy writing on [Medium](https://medium.com/). Check out my [articles here](h
   <img src="https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white">
   <img src="https://img.shields.io/badge/Argo%20CD-argoCD?style=for-the-badge&logo=git&color=181717">
   <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7">
+  <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white">
 </div>
 
 ### Other tools
