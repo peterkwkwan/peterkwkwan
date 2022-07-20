@@ -8,7 +8,7 @@
 
 - 🔭 Currently working on [my personal portfolio website](https://github.com/peterkwkwan/virtual-story-code)
 - 🌱 Currently learning: React Query, MetaMask, websockets and polling
-- 📘 Currently reading: [You Don't Know JS Yet - Scope & Closures](https://www.bookdepository.com/You-Dont-Know-JS-Scope-Closures-Kyle-Simpson/9781449335588). Programming books I have read [here](https://github.com/peterkwkwan/Programming_Theory/tree/main/books)
+- 📘 Currently reading: [You Don't Know JS Yet - this and Object Prototypes](https://www.bookdepository.com/You-Dont-Know-JS-This-Object-Prototypes-Kyle-Simpson/9781491904152). Programming books I have read [here](https://github.com/peterkwkwan/Programming_Theory/tree/main/books)
 - ⚡ Fun fact: Super Smash Bros. 64 was my favorite game growing up
 - 📍 Based in: Hong Kong
 
