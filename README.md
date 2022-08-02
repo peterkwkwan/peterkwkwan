@@ -2,7 +2,7 @@
 
 > General Kenobi <img src="./assets/bluelightsaber.png?raw=true" style="height: 24px">
 
-#### Hello there. Welcome to my Github.
+#### Hello there. Welcome to my Github!
 
 #### If you made it this far, please check out my starred projects along with my personal website. Enjoy your stay!
 
