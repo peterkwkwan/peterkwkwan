@@ -29,6 +29,7 @@ I enjoy writing on [Medium](https://medium.com/). Check out my [articles here](h
 ### Frontend
  
 ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
+![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
 
 <div>
   
