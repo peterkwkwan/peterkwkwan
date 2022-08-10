@@ -40,7 +40,7 @@ I enjoy writing on [Medium](https://medium.com/). Check out my [articles here](h
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white">
   <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white">
-  <img src="https://img.shields.io/badge/Stripe-%008CDD?style=for-the-badge&logo=markdwon&logoColor=white">
+  <img src="https://img.shields.io/badge/stripe-%008CDD?style=for-the-badge&logo=markdwon&logoColor=white">
 
 </div>
 
