@@ -29,7 +29,6 @@ I enjoy writing on [Medium](https://medium.com/). Check out my [articles here](h
 ### Frontend
  
 <div>
-  
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
   <img src="https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white">
@@ -42,7 +41,6 @@ I enjoy writing on [Medium](https://medium.com/). Check out my [articles here](h
   <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white">
   <img src="https://img.shields.io/badge/Stripe-008CDD.svg?style=for-the-badge&logo=stripe&logoColor=white">
   <img src="https://img.shields.io/badge/Recoil-3577E5.svg?style=for-the-badge&logo=meta&logoColor=white">
-
 </div>
 
 ### UI Toolkits / Frameworks
