@@ -43,7 +43,7 @@ I enjoy writing on [Medium](https://medium.com/). Check out my [articles here](h
   <img src="https://img.shields.io/badge/Recoil-3577E5.svg?style=for-the-badge&logo=meta&logoColor=white">
 </div>
 
-### UI Toolkits / Frameworks
+### UI Libraries / Frameworks
 
 <div>
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
