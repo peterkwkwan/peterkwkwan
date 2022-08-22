@@ -10,7 +10,7 @@
 - 🌱 Currently learning: Hedera / Hashgraph, MetaMask, Stripe API, crypto-stuff
 - 📘 Currently reading: [You Don't Know JS Yet - this and Object Prototypes](https://www.bookdepository.com/You-Dont-Know-JS-This-Object-Prototypes-Kyle-Simpson/9781491904152). Programming books I have read [here](https://github.com/peterkwkwan/Programming_Theory/tree/main/books)
 - ⚡ Fun fact: Super Smash Bros. 64 was my favorite video game growing up
-- 📍 Based in: Hong Kong SAR
+- 📍 Based in: Hong Kong
 
 I enjoy writing on [Medium](https://medium.com/). Check out my [articles here](https://medium.com/@peterkwkwan).
 
