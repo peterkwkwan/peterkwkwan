@@ -33,6 +33,7 @@ I enjoy writing on [Medium](https://medium.com/). Check out my [articles here](h
   <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
   <img src="https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white">
   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white">
   <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white">
   <img src="https://img.shields.io/badge/SWR-swr?style=for-the-badge&logo=vercel&color=6A0DAD">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -43,7 +44,7 @@ I enjoy writing on [Medium](https://medium.com/). Check out my [articles here](h
   <img src="https://img.shields.io/badge/Stripe-008CDD.svg?style=for-the-badge&logo=stripe&logoColor=white">
 </div>
 
-### UI Libraries / Frameworks
+### UI Libraries
 
 <div>
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
@@ -51,7 +52,7 @@ I enjoy writing on [Medium](https://medium.com/). Check out my [articles here](h
   <img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white">
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
   <img src="https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white">
-  <img src="https://img.shields.io/badge/Highcharts-3577E5.svg?logoColor=white">
+  <img src="https://img.shields.io/badge/Highcharts-3577E5.svg?style=for-the-badge&logo=meta&logoColor=white">
 </div>
 
 ### Design
