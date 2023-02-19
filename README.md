@@ -14,7 +14,7 @@
 
 I enjoy writing on Medium. [Check out my articles here](https://medium.com/@peterkwkwan).
 
-<img src="./assets/storm_trooper.gif" style="width: 24px">
+<img src="./assets/storm_trooper.gif" style="width: 2rem">
 
 ## Technical Skills
 
