@@ -65,7 +65,7 @@ I enjoy writing on Medium. [Check out my articles here](https://medium.com/@pete
 
 ### Game Dev
 <div>
-  <img src="https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white">
+  <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white">
 </div>
 
 ### CI / CD
