@@ -7,7 +7,7 @@
 #### If you made it this far, please check out my starred projects along with my personal website. Enjoy your stay!
 
 - 🔭 Currently working on [my personal portfolio website](https://github.com/peterkwkwan/virtual-story-code) & [Beyond Conquest (TCG Card Game)](https://www.beyondconquest.com/)
-- 🌱 Currently learning: Unreal Engine 5, Angular & Solidity
+- 🌱 Currently learning: Unity
 - 📘 Currently reading: [You Don't Know JS Yet - this and Object Prototypes](https://www.bookdepository.com/You-Dont-Know-JS-This-Object-Prototypes-Kyle-Simpson/9781491904152). Programming books I have read [here](https://github.com/peterkwkwan/Programming_Theory/tree/main/books)
 - ⚡ Fun fact: Super Smash Bros. 64 was my favorite video game growing up
 - 📍 Based in: Hong Kong
