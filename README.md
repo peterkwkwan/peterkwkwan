@@ -65,7 +65,8 @@ I enjoy writing on Medium. [Check out my articles here](https://medium.com/@pete
 
 ### Game Dev
 <div>
-  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="5552eb79-d2c2-4aab-86e6-c2636f627e73" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+ ![unity-essentials-pathway](https://user-images.githubusercontent.com/37263010/222975963-6662b046-1eb3-431d-8bad-6d4c71b828c7.png)
+
   <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white">
 </div>
 
