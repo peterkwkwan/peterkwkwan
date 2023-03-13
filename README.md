@@ -36,6 +36,7 @@ I enjoy writing on Medium. [Check out my articles here](https://medium.com/@pete
   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
   <img src="https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white">
   <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white">
+  <img src="https://img.shields.io/badge/Docusaurus-%3ECC5F?style=for-the-badge&logo=markdown&logoColor=white">
 </div>
 
 ### Frontend Libraries / Tools
@@ -96,7 +97,6 @@ I enjoy writing on Medium. [Check out my articles here](https://medium.com/@pete
   <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white">
   <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white">
   <img src="https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white">
-  <img src="https://img.shields.io/badge/Docusaurus-%3ECC5F?style=for-the-badge&logo=markdown&logoColor=white">
   <img src="https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white">
 </div>
 
