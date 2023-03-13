@@ -48,6 +48,7 @@ I enjoy writing on Medium. [Check out my articles here](https://medium.com/@pete
   <img src="https://img.shields.io/badge/react_spring-FDA1A1?style=for-the-badge&logo=Stellar&logoColor=white">
   <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white">
   <img src="https://img.shields.io/badge/Stripe API-008CDD.svg?style=for-the-badge&logo=stripe&logoColor=white">
+  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white">
 </div>
 
 ### UI Libraries
@@ -96,7 +97,6 @@ I enjoy writing on Medium. [Check out my articles here](https://medium.com/@pete
   <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white">
   <img src="https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white">
   <img src="https://img.shields.io/badge/Docusaurus-%3ECC5F?style=for-the-badge&logo=markdown&logoColor=white">
-  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white">
   <img src="https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white">
 </div>
 
