@@ -71,12 +71,6 @@ I enjoy writing on Medium. [Check out my articles here](https://medium.com/@pete
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white">
 </div>
 
-### Game Dev
-<div>
-  <img src="https://user-images.githubusercontent.com/37263010/222976036-17c97fdc-d8f6-40b0-8176-2d6ed1a7ec13.png">
-  <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white">
-</div>
-
 ### CI / CD
 
 <div>
@@ -98,6 +92,8 @@ I enjoy writing on Medium. [Check out my articles here](https://medium.com/@pete
   <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white">
   <img src="https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white">
   <img src="https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white">
+  <img src="https://user-images.githubusercontent.com/37263010/222976036-17c97fdc-d8f6-40b0-8176-2d6ed1a7ec13.png">
+  <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white">
 </div>
 
 ### Learning
