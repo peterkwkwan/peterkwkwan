@@ -40,6 +40,7 @@ I enjoy writing on Medium. [Check out my articles here](https://medium.com/@pete
 <div>
   <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
   <img src="https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white">
+  <img src="https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white)">
   <img src="https://img.shields.io/badge/SWR-swr?style=for-the-badge&logo=vercel&color=6A0DAD">
   <img src="https://img.shields.io/badge/Recoil-3577E5.svg?style=for-the-badge&logo=meta&logoColor=white">
   <img src="https://img.shields.io/badge/Zustand-black?style=for-the-badge&logo=planetscale&logoColor=white">
